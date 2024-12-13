@@ -1,0 +1,4 @@
+.venv
+*.wav
+trascript*.txt
+__pycache__
